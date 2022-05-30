@@ -9,7 +9,7 @@ How did the project created?
 
 I scrapped job posting ads on Jobstreet using a 3rd party software called https://webscraper.io/ to extract the job ads to a CSV file.
 
-**STEP 2 - Data cleanup**
+**STEP 2 - Data Cleanup**
 
 I used PostgreSQL to cleanup the data. I utilized SELECT, FROM, ILIKE, CASE, WHEN, THEN, OR, END AS, UNION ALL, IS, IS NOT, ORDER BY, SubQuery, etc to proccess the data.
 After the data has been cleaned, I extracted it to a CSV file.
