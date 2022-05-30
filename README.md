@@ -11,7 +11,7 @@ I scrapped job posting ads on Jobstreet using a 3rd party software called https:
 
 **STEP 2 - Data cleanup**
 
-I used PostgreSQL to cleanup the data. I utilized SELECT, FROM, ILIKE, CASE, WHEN, THEN, OR, END AS, UNION ALL, and SubQuery to proccess the data.
+I used PostgreSQL to cleanup the data. I utilized SELECT, FROM, ILIKE, CASE, WHEN, THEN, OR, END AS, UNION ALL, IS, IS NOT, ORDER BY, SubQuery, etc to proccess the data.
 After the data has been cleaned, I extracted it to a CSV file.
 
 **STEP 3 - Dashboard Creation**
@@ -22,6 +22,6 @@ I used Google Data Studio to create the dashboard using the CSV file that was cr
 3. Distributions on Data Analytics job openings based on locations
 4. Distributions on Data Analytics job openings based on year of experience
 
-**STEP 4- Publish!**
+**STEP 4 - Publish!**
 
 Here is where you can access the project > https://sites.google.com/view/portfoliojuan/
