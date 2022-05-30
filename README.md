@@ -1,4 +1,4 @@
-# skillquery
+# Skill Query
 SKILL QUERY - LEARN THE RIGHT SKILLS: Job qualification analytics based on current job postings
 
 The project that I created was aimed to answer those considerations. So, there we go!
