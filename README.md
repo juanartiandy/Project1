@@ -5,7 +5,7 @@ The project that I created was aimed to answer those considerations. So, there w
 
 How did the project created?
 
-**STEP 1 - Web Scrapping**
+STEP 1 - Web Scrapping
 I scrapped job posting ads on Jobstreet using a 3rd party software called https://webscraper.io/ to extract the job ads to a CSV file.
 
 **STEP 2 - Data cleanup**
