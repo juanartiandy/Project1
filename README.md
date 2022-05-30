@@ -6,7 +6,7 @@ The project that I created was aimed to answer those considerations. So, there w
 How did the project created?
 
 STEP 1 - Web Scrapping
-I scrapped job posting ads on Jobstreet using a 3rd party software called https://webscraper.io/ to extract the job ads to a csv file.
+I scrapped job posting ads on Jobstreet using a 3rd party software called https://webscraper.io/ to extract the job ads to a CSV file.
 
 STEP 2 - Data cleanup
 I used PostgreSQL to cleanup the data. I utilized SELECT, FROM, ILIKE, CASE, WHEN, THEN, OR, END AS, UNION ALL, and SubQuery to proccess the data.
