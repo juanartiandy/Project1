@@ -16,7 +16,7 @@ After the data has been cleaned, I extracted it to a CSV file. You can access th
 
 **STEP 3 - Dashboard Creation**
 
-I used Google Data Studio to create the dashboard using the CSV file that was created from STEP 2. The dashboard was aimed to answer these questions :
+I used Google Data Studio and Power BI to create the dashboard using the CSV file that was created from STEP 2. The dashboard was aimed to answer these questions :
 1. What are the most on demand skills in Data Analytics right now?
 2. Distributions on Data Analytics job openings based on education qualifications
 3. Distributions on Data Analytics job openings based on locations
