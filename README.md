@@ -12,7 +12,7 @@ I scrapped job posting ads on Jobstreet using a 3rd party software called https:
 **STEP 2 - Data Cleanup**
 
 I used PostgreSQL to cleanup the data. I utilized SELECT, FROM, ILIKE, CASE, WHEN, THEN, OR, END AS, UNION ALL, IS, IS NOT, ORDER BY, SubQuery, etc to proccess the data.
-After the data has been cleaned, I extracted it to a CSV file.
+After the data has been cleaned, I extracted it to a CSV file. You can access the SQL file ini here > https://github.com/juanartiandy/Project1/blob/main/skillquery_data_cleanup.sql
 
 **STEP 3 - Dashboard Creation**
 
