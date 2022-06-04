@@ -1,7 +1,5 @@
-# Skill Query - https://sites.google.com/view/portfoliojuan/
+# Skill Query - https://juanartiandy.github.io/skillquery.html
 SKILL QUERY - LEARN THE RIGHT SKILLS: Job qualification analytics based on current job postings
-
-The project that I created was aimed to answer those considerations. So, there we go!
 
 How did the project created?
 
@@ -24,4 +22,4 @@ I used Google Data Studio and Power BI to create the dashboard using the CSV fil
 
 **STEP 4 - Publish!**
 
-Here is where you can access the project > https://sites.google.com/view/portfoliojuan/
+Here is where you can access the project > https://juanartiandy.github.io/skillquery.html
