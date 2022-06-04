@@ -1,4 +1,5 @@
 # Skill Query - https://juanartiandy.github.io/skillquery.html
+Tools Used : PostgreSQL, Excel, Power BI, and Google Data Studio
 SKILL QUERY - LEARN THE RIGHT SKILLS: Job qualification analytics based on current job postings
 
 How did the project created?
